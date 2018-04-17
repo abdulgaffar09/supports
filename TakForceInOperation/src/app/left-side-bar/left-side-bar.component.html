@@ -1,0 +1,40 @@
+<div class="left-sidebar">
+  <!-- Sidebar scroll-->
+  <div class="scroll-sidebar">
+    <!-- Sidebar navigation-->
+    <nav class="sidebar-nav">
+      <ul id="sidebarnav">
+        <li class="nav-devider"></li>
+        <!--<li class="nav-label">Home</li>-->
+        <li>
+          <a routerLink="/dashboard" aria-expanded="false"><i class="fa fa-home"></i><span class="hide-menu">Home</span></a>
+        </li>
+        <li>
+          <a routerLink="/admin" aria-expanded="false"><i class="fa fa-user-plus"></i><span class="hide-menu">Admin</span></a>
+        </li>
+        <li>
+          <a routerLink="/vocissue" aria-expanded="false"><i class="fa fa-user"></i><span class="hide-menu">VOC Issue Description</span></a>
+        </li>
+        <li class="active">
+          <a class="has-arrow" href="#" aria-expanded="false"><i class="fa fa-file-archive-o"></i><span class="hide-menu">Forms <span class="label label-rouded label-primary pull-right">4</span></span></a>
+          <ul aria-expanded="false" class="collapse">
+            <li><a routerLink="/claims">Claims</a></li>
+            <li><a routerLink="/q3summary">Q3 Summary  </a></li>
+            <li><a routerLink="/q4summary">Q4 Summary  </a></li>
+            <li><a routerLink="/pfpengineer">PFPTo Engineer </a></li>
+          </ul>
+        </li>
+        <!--<li class="nav-label">Apps</li>-->
+        <li class="active">
+          <a class="has-arrow" href="#" aria-expanded="false"><i class="fa fa-building-o"></i><span class="hide-menu">Reports</span></a>
+          <ul aria-expanded="false" class="collapse">
+            <li><a routerLink="/tableau">Tableau Reports</a></li>
+            <!--<li><a href="email-read.html">Read</a></li>
+            <li><a href="email-inbox.html">Inbox</a></li>-->
+          </ul>
+        </li>
+      </ul>
+    </nav>
+    <!-- End Sidebar navigation -->
+  </div>
+  <!-- End Sidebar scroll-->

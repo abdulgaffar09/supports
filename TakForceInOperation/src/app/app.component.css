@@ -1,0 +1,23 @@
+.header-title{
+    color:red;
+}
+
+@media screen and (min-width: 376px) and (max-width: 760px) {
+    .header-title{
+        padding: 14%;
+    }
+}    
+
+@media screen and (max-width: 376px){
+    .header-title{
+        padding: 18%;
+    }
+} 
+
+.left-sidebar{
+    position: fixed;
+}
+
+.header-row{
+    position: fixed;
+}

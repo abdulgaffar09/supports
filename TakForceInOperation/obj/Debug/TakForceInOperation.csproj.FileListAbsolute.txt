@@ -1,0 +1,9 @@
+C:\Users\WELCME\source\repos\TakForceInOperation\TakForceInOperation\bin\TakForceInOperation.dll.config
+C:\Users\WELCME\source\repos\TakForceInOperation\TakForceInOperation\bin\TakForceInOperation.dll
+C:\Users\WELCME\source\repos\TakForceInOperation\TakForceInOperation\bin\TakForceInOperation.pdb
+C:\Users\WELCME\source\repos\TakForceInOperation\TakForceInOperation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WELCME\source\repos\TakForceInOperation\TakForceInOperation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WELCME\source\repos\TakForceInOperation\TakForceInOperation\obj\Debug\TakForceInOperation.csprojResolveAssemblyReference.cache
+C:\Users\WELCME\source\repos\TakForceInOperation\TakForceInOperation\obj\Debug\TakForceInOperation.csproj.CoreCompileInputs.cache
+C:\Users\WELCME\source\repos\TakForceInOperation\TakForceInOperation\obj\Debug\TakForceInOperation.dll
+C:\Users\WELCME\source\repos\TakForceInOperation\TakForceInOperation\obj\Debug\TakForceInOperation.pdb
